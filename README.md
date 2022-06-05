@@ -1,2 +1,2 @@
-# My-Machine-Learnning-projects
+# My-Machine-Learnning-practice
 All my beginner projects in machine learning field will be posted here...
