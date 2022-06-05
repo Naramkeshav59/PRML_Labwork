@@ -1,2 +1,2 @@
 # My-Machine-Learnning-practice
-All my beginner projects in machine learning field will be posted here...
+Contains My machine learning practice notebooks and necessary data.
